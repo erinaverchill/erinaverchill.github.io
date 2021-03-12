@@ -1,5 +1,5 @@
-@import url("font-awesome.min.css");
-@import url("http://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700,800");
+/*@import url("font-awesome.min.css");*/
+/*@import url("http://fonts.googleapis.com/css?family=DotGothic16:300,400,600,700,800");*/
 
 /*
 	Solarize by TEMPLATED
@@ -28,7 +28,7 @@
 
 	body, input, select, textarea {
 		color: #555555;
-		font-family: 'Open Sans', sans-serif;
+		font-family: 'DotGothic16', sans-serif;
 		font-size: 12pt;
 		font-weight: 300;
 		line-height: 1.65em;

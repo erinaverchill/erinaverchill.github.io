@@ -1,0 +1,18 @@
+# Ignore Mac system files
+.DS_store
+
+# Ignore the node_modules directory
+node_modules/
+
+# Ignore Logs
+logs
+*.log
+
+#config files with keys
+config.py
+config.js
+
+# The directory containing environment variables 
+/env
+
+# Ignore IDE specific files
