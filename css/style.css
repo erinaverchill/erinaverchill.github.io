@@ -1,5 +1,5 @@
-@import url("font-awesome.min.css");
-@import url("http://fonts.googleapis.com/css?family=DotGothic16:300,400,600,700,800");
+/*@import url("font-awesome.min.css");
+@import url("http://fonts.googleapis.com/css?family=DotGothic16:300,400,600,700,800");*/
 
 /*
 	Solarize by TEMPLATED
@@ -13,7 +13,7 @@
 		background: #222222;
 	}
 
-		body.loading * {
+		/*body.loading * {
 			-moz-transition: none !important;
 			-webkit-transition: none !important;
 			-o-transition: none !important;
@@ -24,7 +24,7 @@
 			-o-animation: none !important;
 			-ms-animation: none !important;
 			animation: none !important;
-		}
+		}*/
 
 	body, input, select, textarea {
 		color: #555555;
