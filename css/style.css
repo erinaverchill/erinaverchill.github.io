@@ -195,11 +195,12 @@
 
 	.image {
 		border: 0;
-		border-radius: 4px;
+		border-radius: 2px;
 		position: relative;
+		object-fit: fill;
 	}
 
-		.image.fit {
+/*		.image.fit {
 			display: block;
 		}
 
@@ -207,7 +208,7 @@
 				display: block;
 				width: 100%;
 			}
-
+*/
 		.image.feature {
 			display: block;
 			margin: 0 0 2em 0;
