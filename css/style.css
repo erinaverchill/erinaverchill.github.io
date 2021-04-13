@@ -195,6 +195,7 @@
 
 	.image {
 		border: 0;
+		border-radius: 8px;
 		position: relative;
 	}
 
@@ -218,10 +219,10 @@
 			}
 
 /* Thumbnail */
-.thumbnail img {
-    height:250px;
-    width:100%;
-}
+	.thumbnail img {
+	    height:250px;
+	    width:100%;
+	}
 
 /* Icon */
 
