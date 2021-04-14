@@ -223,6 +223,10 @@
 	.thumbnail img {
 	    height:250px;
 	    width:100%;
+	    border: 0;
+		border-radius: 2px;
+		position: relative;
+		object-fit: fill;
 	}
 
 /* Icon */
