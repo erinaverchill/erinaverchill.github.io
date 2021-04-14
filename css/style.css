@@ -13,7 +13,7 @@
 		background: #222222;
 	}
 
-		/*body.loading * {
+		body.loading * {
 			-moz-transition: none !important;
 			-webkit-transition: none !important;
 			-o-transition: none !important;
@@ -24,7 +24,7 @@
 			-o-animation: none !important;
 			-ms-animation: none !important;
 			animation: none !important;
-		}*/
+		}
 
 	body, input, select, textarea {
 		color: #555555;
@@ -200,7 +200,7 @@
 		object-fit: fill;
 	}
 
-/*		.image.fit {
+		.image.fit {
 			display: block;
 		}
 
@@ -208,8 +208,8 @@
 				display: block;
 				width: 100%;
 			}
-*/
-/*		.image.feature {
+
+		.image.feature {
 			display: block;
 			margin: 0 0 2em 0;
 		}
@@ -218,16 +218,16 @@
 				display: block;
 				width: 100%;
 			}
-*/
+
 /* Thumbnail */
-	.thumbnail img {
+/*	.thumbnail img {
 	    height:250px;
 	    width:100%;
 	    border: 0;
 		border-radius: 2px;
 		position: relative;
 		object-fit: fill;
-	}
+	}*/
 
 /* Icon */
 
