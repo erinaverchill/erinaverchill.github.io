@@ -7,6 +7,12 @@
 	Released for free under the Creative Commons Attribution 3.0 license (templated.co/license)
 */
 
+/* imports */
+@import url("font-awesome.min.css");
+@import url('https://fonts.googleapis.com/css?family=Muli&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Quicksand&display=swap');
+@import url('https://fonts.googleapis.com/css?family=DotGothic16&display=swap');
+
 /* Basic */
 
 	body {
@@ -28,7 +34,7 @@
 
 	body, input, select, textarea {
 		color: #555555;
-		font-family: 'DotGothic16', sans-serif;
+		font-family: 'Muli', sans-serif;
 		font-size: 12pt;
 		font-weight: 300;
 		line-height: 1.65em;
@@ -74,6 +80,7 @@
 	}
 
 	h3 {
+		font-family: 'DotGothic16';
 		font-size: 1.25em;
 	}
 
@@ -201,21 +208,21 @@
 	}
 
 		.image.fit {
-			display: block;
+			display: flex;
 		}
 
 			.image.fit img {
-				display: block;
+				display: flex;
 				width: 100%;
 			}
 
 		.image.feature {
-			display: block;
+			display: flex;
 			margin: 0 0 2em 0;
 		}
 
 			.image.feature img {
-				display: block;
+				display: flex;
 				width: 100%;
 			}
 
