@@ -9,7 +9,7 @@
 
 /* imports */
 @import url("font-awesome.min.css");
-@import url('https://fonts.googleapis.com/css?family=Muli&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Inter&display=swap');
 @import url('https://fonts.googleapis.com/css?family=Quicksand&display=swap');
 @import url('https://fonts.googleapis.com/css?family=DotGothic16&display=swap');
 
@@ -34,7 +34,7 @@
 
 	body, input, select, textarea {
 		color: #555555;
-		font-family: 'Muli', sans-serif;
+		font-family: 'Inter', sans-serif;
 		font-size: 12pt;
 		font-weight: 300;
 		line-height: 1.65em;
@@ -537,7 +537,7 @@
 
 		.wrapper.style3 {
 			padding-bottom: 6em;
-			background: #96D891;
+			background: #a4c0a2;
 			text-align: center;
 			color: white;
 		}
@@ -556,7 +556,7 @@
 		}
 
 		.wrapper.style5 {
-			background: #96D891;
+			background: #a4c0a2;
 			text-align: center;
 			color: white;
 		}
