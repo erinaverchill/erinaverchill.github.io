@@ -41,7 +41,7 @@
 	}
 
 	a {
-		color: #82b440;
+		color: #000000;
 		font-weight: 500;
 		text-decoration: underline;
 	}
@@ -100,13 +100,13 @@
 	}
 
 	hr {
-		border-top: solid 1px #82b440;
+		border-top: solid 1px #000000;
 		border: 0;
 		margin-bottom: 1.5em;
 	}
 
 	blockquote {
-		border-left: solid 0.5em #82b440;
+		border-left: solid 0.5em #000000;
 		font-style: italic;
 		padding: 1em 0 1em 2em;
 	}
@@ -153,7 +153,7 @@
 		-ms-appearance: none;
 		appearance: none;
 		background: none;
-		border: solid 1px #82b440;
+		border: solid 1px #000000;
 		color: inherit;
 		display: block;
 		outline: 0;
@@ -166,7 +166,7 @@
 		input[type="password"]:focus,
 		input[type="email"]:focus,
 		textarea:focus {
-			border-color: #82b440;
+			border-color: #000000;
 		}
 
 	input[type="text"],
@@ -383,7 +383,7 @@
 			display: inline-block;
 			padding-right: 1em;
 			font-size: 1.4em;
-			color: #82b440;
+			color: #000000;
 		}
 
 		ul.special-icons p {
@@ -401,7 +401,7 @@
 		}
 
 			table.default tbody tr {
-				border-bottom: solid 1px #82b440;
+				border-bottom: solid 1px #000000;
 			}
 
 			table.default td {
@@ -433,8 +433,8 @@
 		background: none;
 		border-radius: none;
 		border: 2px solid;
-		border-color: #82b440;
-		color: #82b440;
+		border-color: #000000;
+		color: #000000;
 		cursor: pointer;
 		display: inline-block;
 		padding: 0.90em 1.2em;
@@ -454,7 +454,7 @@
 		input[type="reset"]:hover,
 		input[type="button"]:hover,
 		.button:hover {
-			background: #82b440;
+			background: #000000;
 			color: white;
 		}
 
@@ -471,7 +471,7 @@
 			input[type="button"].alt:hover,
 			.button.alt:hover {
 				background: white;
-				color: #82b440;
+				color: #000000;
 			}
 
 		input[type="submit"].fit,
@@ -702,7 +702,7 @@
 		#banner h2 {
 			display: inline-block;
 			padding: 0.50em 0.30em;
-			background: #82b440;
+			background: #000000;
 			font-size: 3em;
 			font-weight: 400;
 		}
